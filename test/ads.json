@@ -2,12 +2,12 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["baidu", "facebook"],
-        "2": ["baidu", "facebook"],
-        "3": ["baidu", "facebook"],
-        "4": ["baidu", "facebook"],
-        "5": ["baidu", "facebook"],
-        "6": ["baidu", "facebook"],
+        "1": ["facebook", "baidu"],
+        "2": ["facebook", "baidu"],
+        "3": ["facebook", "baidu"],
+        "4": ["facebook", "baidu"],
+        "5": ["facebook", "baidu"],
+        "6": ["facebook", "baidu"],
         "adid": {
             "1": {
                 "facebook": "516449572073764_516886792030042"
