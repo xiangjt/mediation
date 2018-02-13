@@ -2,21 +2,18 @@
     "status": 0,
     "msg": "",
     "data": {
-        "1": ["facebook"],
-        "2": ["facebook"],
-        "3": ["facebook"],
-        "4": ["facebook"],
-        "5": ["facebook"],
-        "6": ["facebook"],
+        "1": ["facebook", "baidu"],
+        "2": ["facebook", "baidu"],
+        "3": ["baidu"],
+        "4": ["facebook", "baidu"],
+        "5": ["facebook", "baidu"],
+        "6": ["facebook", "baidu"],
         "adid": {
             "1": {
                 "facebook": "516449572073764_516886792030042"
             },
             "2": {
                 "facebook": "516449572073764_522011281517593"
-            },
-            "3": {
-                "facebook": "516449572073764_522095591509162"
             },
             "4": {
                 "facebook": "516449572073764_525982081120513"
